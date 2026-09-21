@@ -104,3 +104,12 @@ print(df_groupby)
 # ------------------------------------------
 df_clean.to_csv('dataset_bersih.csv', index=False)
 print("\nDataset bersih berhasil disimpan ke file 'dataset_bersih.csv'.")
+
+# Tahap yang Paling Menantang dan Cara Mengatasinya
+# Tahap Data Cleaning merupakan tahap yang paling menantang. Tantangan utamanya adalah menangani format data yang tidak konsisten pada kolom nilai (seperti adanya teks "poin" dan angka pencilan/outlier 999), serta menentukan penanganan missing value yang tepat tanpa merusak distribusi data. Cara Mengatasinya: Kami menggunakan manipulasi string dan konversi numerik untuk membersihkan teks, mengganti nilai pencilan 999 menjadi missing value, lalu mengimputasinya menggunakan median agar tidak sensitif terhadap nilai ekstrem.
+
+# Alasan Keputusan Membersihkan Data Harus Didasarkan Alasan yang Jelas
+# Keputusan data cleaning wajib didasari alasan rasional agar integritas dan validitas data tetap terjaga. Jika data asal dibuang (drop), kita berisiko kehilangan informasi penting yang dapat mengurangi ukuran sampel. Jika data diisi (fillna) secara asal-asalan, analisis agregat (seperti rata-rata dan standar deviasi) akan menjadi bias dan menghasilkan kesimpulan yang menyesatkan.
+
+# Hubungan Dataset Bersih dengan Pekerjaan Data Analyst di Dunia Nyata
+# Di dunia nyata, sekitar 70–80% waktu seorang Data Analyst dihabiskan untuk data cleaning dan preparation. Dataset bersih hasil dari proyek ini adalah pondasi utama sebelum memasuki tahap pembuatan dashboard, visualisasi data, hingga pengambilan keputusan bisnis (data-driven decision making). Tanpa data yang bersih (garbage in, garbage out), laporan atau rekomendasi analisis yang dihasilkan tidak akan dapat dipercaya oleh stakeholder.
