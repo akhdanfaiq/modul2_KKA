@@ -1,0 +1,80 @@
+id_siswa,nama,kelas,mata_pelajaran,jenis_ujian,tanggal_ujian,nilai,guru_pengampu
+SIS0004,Joko Prasetyo,XI RPL 2,KKA,uas,06/08/2026,46,Ibu Wati
+SIS0020,Eka Putri,XI RPL 1,PKK,uts,12 Agustus 2026,73,Bpk. Santoso
+SIS0015,Nanda Pratama,XI RPL 3,Pemrograman Web,UAS,2026-08-15,69,Bpk. Santoso
+SIS0046,Fajar Nugroho,XI RPL 2,Matematika,UH,10/08/2026,73,Bpk. Arifin
+SIS0011,Ayu Lestari,XI RPL 2,Pemrograman Web,UH,6 Agustus 2026,53,Ibu Wati
+SIS0056,Maya Anggraini,XI RPL 2,PKK,uts,08/08/2026,42,Bpk. Santoso
+SIS0024,Gita Ramadhani,XI RPL 3,Bahasa Inggris,UTS,19/08/2026,45,Ibu Wati
+SIS0030,Indah Permata,XI RPL 1,Pemrograman Web,UAS,11/08/2026,74,Ibu Wati
+SIS0025,Putri Amelia,XI RPL 1,Pemrograman Web,UH,2026-08-20,98,
+SIS0014,Eka Putri,XI RPL 1,PKK,uh,3 Agustus 2026,56,Ibu Wati
+SIS0023,Hendra Wijaya,XI RPL 1,Bahasa Inggris,UTS,2026-08-16,999,Bpk. Arifin
+SIS0059,Citra Ningrum,XI RPL 3,Bahasa Inggris,UAS,2026-08-05,56,Bpk. Arifin
+SIS0018,Lukman Hakim,XI RPL 3,Matematika,uh,10 Agustus 2026,,Bpk. Arifin
+SIS0032,Fajar Nugroho,XI RPL 3,Matematika,UH,2026-08-09,79,
+SIS0040,Lukman Hakim,XI RPL 1,Pemrograman Web,UAS,19 Agustus 2026,64,Bpk. Santoso
+SIS0041,Joko Prasetyo,XI RPL 3,Matematika,UH,2026-08-11,56,Ibu Wati
+SIS0012,Hendra Wijaya,XI RPL 2,Basis Data,UTS,2026-08-05,65,
+SIS0043,Putri Amelia,XI RPL 3,Pemrograman Web,uh,2026-08-12,67,Bpk. Arifin
+SIS0009,Rina Marlina,XI RPL 3,Pemrograman Web,UTS,16 Agustus 2026,44,Bpk. Arifin
+SIS0002,Gita Ramadhani,XI RPL 1,Matematika,uts,2026-08-18,45,Bpk. Rendi
+SIS0008,Dedi Saputra,XI RPL 3,Basis Data,UH,2026-08-15,66,Bpk. Rendi
+SIS0003,Satria Nugraha,XI RPL 1,KKA,UAS,4 Agustus 2026,54,Ibu Wati
+SIS0022,Lukman Hakim,XI RPL 1,Pemrograman Web,uh,2026-08-15,91,Ibu Dewi
+SIS0058,Lukman Hakim,XI RPL 1,Basis Data,uts,2026-08-04,,Ibu Dewi
+SIS0063,Gita Ramadhani,XI RPL 3,Basis Data,UTS,13 Agustus 2026,69,Bpk. Santoso
+SIS0050,Maya Anggraini,XI RPL 2,Matematika,UH,2026-08-03,67 poin,Bpk. Rendi
+SIS0065,Indah Permata,XI RPL 2,KKA,uh,2026-08-05,87,Bpk. Arifin
+SIS0070,Citra Ningrum,XI RPL 2,Basis Data,UTS,04/08/2026,43,Bpk. Arifin
+SIS0026,Dedi Saputra,XI RPL 2,PKK,UH,2026-08-20,90,Bpk. Rendi
+SIS0044,Ayu Lestari,XI RPL 3,Matematika,UTS,2026-08-05,56,Ibu Dewi
+SIS0048,Qori Ramadhan,XI RPL 3,KKA,UAS,2026-08-20,46,Ibu Dewi
+SIS0033,Budi Santoso,XI RPL 2,PKK,UAS,2026-08-20,55 poin,Bpk. Rendi
+SIS0031,Budi Santoso,XI RPL 3,Pemrograman Web,uts,2026-08-18,73,Ibu Dewi
+SIS0047,Oki Firmansyah,XI RPL 3,PKK,UH,12/08/2026,56,Bpk. Rendi
+SIS0037,Hendra Wijaya,XI RPL 2,Matematika,uh,2026-08-13,100,Bpk. Arifin
+SIS0037,Hendra Wijaya,XI RPL 2,Matematika,uh,2026-08-13,100,Bpk. Arifin
+SIS0053,Gita Ramadhani,XI RPL 2,KKA,UH,15 Agustus 2026,70,Ibu Wati
+SIS0001,Kirana Salsabila,XI RPL 1,Basis Data,UAS,2026-08-04,63,Bpk. Santoso
+SIS0052,Oki Firmansyah,XI RPL 1,Pemrograman Web,uts,15/08/2026,42,Bpk. Arifin
+SIS0010,Putri Amelia,XI RPL 3,PKK,UH,04/08/2026,58,Bpk. Arifin
+SIS0029,Ayu Lestari,XI RPL 3,PKK,uh,8 Agustus 2026,92,Bpk. Rendi
+SIS0027,Maya Anggraini,XI RPL 2,Basis Data,uas,2026-08-05,48,Bpk. Santoso
+SIS0067,Maya Anggraini,XI RPL 1,KKA,UH,20 Agustus 2026,59,Ibu Dewi
+SIS0068,Lukman Hakim,XI RPL 2,Pemrograman Web,UH,2026-08-15,88,Ibu Dewi
+SIS0016,Maya Anggraini,XI RPL 2,Basis Data,UTS,6 Agustus 2026,43 poin,Ibu Wati
+SIS0046,Fajar Nugroho,XI RPL 2,Matematika,UH,10/08/2026,73,Bpk. Arifin
+SIS0013,Nanda Pratama,XI RPL 3,Pemrograman Web,UAS,18/08/2026,54 poin,Ibu Wati
+SIS0034,Dedi Saputra,XI RPL 3,Basis Data,UAS,2026-08-03,60,Bpk. Santoso
+SIS0028,Oki Firmansyah,XI RPL 3,KKA,uas,20/08/2026,75,Bpk. Rendi
+SIS0055,Ayu Lestari,XI RPL 2,Pemrograman Web,uas,2026-08-11,,Bpk. Santoso
+SIS0075,Dedi Saputra,XI RPL 1,PKK,UH,2026-08-05,75,Bpk. Arifin
+SIS0017,Oki Firmansyah,XI RPL 1,Matematika,UTS,2026-08-04,76 poin,Bpk. Rendi
+SIS0072,Maya Anggraini,XI RPL 3,Bahasa Inggris,UH,2026-08-05,68,Ibu Wati
+SIS0054,Hendra Wijaya,XI RPL 3,Matematika,uh,2026-08-12,65,Ibu Dewi
+SIS0069,Dedi Saputra,XI RPL 1,PKK,UH,13/08/2026,44,Bpk. Santoso
+SIS0035,Tania Puspita,XI RPL 3,KKA,UAS,12 Agustus 2026,72,Bpk. Santoso
+SIS0071,Eka Putri,XI RPL 1,Pemrograman Web,UTS,2026-08-15,,Bpk. Rendi
+SIS0066,Eka Putri,XI RPL 3,PKK,UAS,2026-08-12,54,Ibu Dewi
+SIS0051,Maya Anggraini,XI RPL 3,PKK,UTS,11/08/2026,69 poin,Bpk. Arifin
+SIS0007,Citra Ningrum,XI RPL 3,Pemrograman Web,UAS,20/08/2026,58,Bpk. Rendi
+SIS0019,Tania Puspita,XI RPL 2,Basis Data,UH,6 Agustus 2026,70,Bpk. Rendi
+SIS0038,Eka Putri,XI RPL 2,KKA,UTS,2026-08-11,96,Ibu Wati
+SIS0039,Fajar Nugroho,XI RPL 3,Basis Data,UAS,17/08/2026,52,Bpk. Rendi
+SIS0006,Kirana Salsabila,XI RPL 2,Bahasa Inggris,uts,16/08/2026,90 poin,Ibu Wati
+SIS0042,Indah Permata,XI RPL 1,Basis Data,uas,12 Agustus 2026,74,Bpk. Santoso
+SIS0017,Oki Firmansyah,XI RPL 1,Matematika,UTS,2026-08-04,76 poin,Bpk. Rendi
+SIS0021,Lukman Hakim,XI RPL 1,PKK,UAS,03/08/2026,84,Bpk. Santoso
+SIS0060,Hendra Wijaya,XI RPL 3,KKA,UH,19 Agustus 2026,44,Bpk. Arifin
+SIS0032,Fajar Nugroho,XI RPL 3,Matematika,UH,2026-08-09,79,
+SIS0062,Tania Puspita,XI RPL 3,KKA,UH,2026-08-20,57,Bpk. Rendi
+SIS0045,Ayu Lestari,XI RPL 2,Bahasa Inggris,UTS,2026-08-12,73,Bpk. Rendi
+SIS0064,Gita Ramadhani,XI RPL 2,Matematika,UTS,03/08/2026,44,Ibu Dewi
+SIS0073,Joko Prasetyo,XI RPL 2,Matematika,UAS,2026-08-08,66,Bpk. Arifin
+SIS0061,Budi Santoso,XI RPL 3,PKK,uas,2026-08-10,61,Bpk. Arifin
+SIS0036,Indah Permata,XI RPL 3,KKA,UTS,8 Agustus 2026,65,Bpk. Rendi
+SIS0049,Putri Amelia,XI RPL 3,Basis Data,uas,2026-08-13,61 poin,Ibu Wati
+SIS0005,Lukman Hakim,XI RPL 1,Bahasa Inggris,uas,2026-08-05,71,Ibu Dewi
+SIS0057,Nanda Pratama,XI RPL 3,PKK,uas,2026-08-08,45,Ibu Wati
+SIS0074,Indah Permata,XI RPL 3,PKK,uas,12 Agustus 2026,59,Ibu Dewi
